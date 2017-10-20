@@ -5,5 +5,5 @@ rvm:
   - 2.4.1
 env:
   matrix:
-    - "RAILS_VERSION=4.2.7.1"
+    - "RAILS_VERSION=4.2.9.0"
     - "RAILS_VERSION=5.0.0.1"
